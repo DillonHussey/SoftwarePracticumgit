@@ -1,0 +1,12 @@
+ Directory of C:\Users\Dillon\Documents\SoftwarePracticum\BuildToolsAssignment\MavenS\SoftwarePracticumgit
+
+06/18/2021  10:43 AM    <DIR>          .
+06/18/2021  10:43 AM    <DIR>          ..
+06/17/2021  01:15 PM                33 .gitignore
+06/14/2021  07:51 PM             2,977 pom.xml
+06/18/2021  10:36 AM                 0 Sample
+06/18/2021  10:45 AM                 0 Sample.txt
+06/18/2021  10:36 AM    <DIR>          src
+06/17/2021  01:11 PM    <DIR>          target
+               4 File(s)          3,010 bytes
+               4 Dir(s)  360,530,448,384 bytes free
