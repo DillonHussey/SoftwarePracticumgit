@@ -1,5 +1,3 @@
- Directory of C:\Users\Dillon\Documents\SoftwarePracticum\BuildToolsAssignment\MavenS\SoftwarePracticumgit
-
 06/18/2021  10:43 AM    <DIR>          .
 06/18/2021  10:43 AM    <DIR>          ..
 06/17/2021  01:15 PM                33 .gitignore
